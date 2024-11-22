@@ -1,3 +1,6 @@
+# =============================
+# model development env
+# =============================
 tensorflow==2.17.0
 keras==3.4.1
 pillow
@@ -5,3 +8,7 @@ numpy
 matplotlib
 scikit-learn
 seaborn
+# =============================
+# preprocessing packages
+# =============================
+imagehash
