@@ -2,6 +2,17 @@
 
 This repository is used by the Machine Learning team in the BinBuddy project to develop and test TensorFlow models. Inside this repository, there are notebooks for data preprocessing and model experimentation from each team member.
 
+## Tech Stack
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-purple?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge&logoColor=white)
+
 ## Repository Structure
 
 - **`models/`**: This folder contains notebooks (`.ipynb`) from each ML team member. Each file reflects individual or group experiments on `model development`.
